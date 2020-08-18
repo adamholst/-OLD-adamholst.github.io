@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Harambe                          # the main title
+title: Adam Holst                       # the main title
 
 tagline: wannabe security guy  # it will display as the sub-title
 
@@ -20,7 +20,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://adamholst.github.com'
 
-author: Adam Holst                  # change to your full name
+author: Harambe                 # change to your full name
 
 avatar: /hypers2.png   # support internet resources
 
@@ -54,7 +54,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Central
+timezone: America/Chicago
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
