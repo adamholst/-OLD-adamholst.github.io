@@ -22,13 +22,16 @@ url: 'https://adamholst.github.com'
 
 author: Adam Holst                  # change to your full name
 
-avatar: /hypers.png   # support internet resources
+avatar: /hypers2.png   # support internet resources
 
 github:
   username: adamholst             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+  #username: twitter_username            # change to your twitter username
+
+linkedin:
+  username: adam-holst
 
 social:
   name: Harambe                 # it will shows as the copyright owner in Footer
