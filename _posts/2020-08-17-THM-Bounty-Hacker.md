@@ -1,11 +1,3 @@
-
----
-title: THM Bounty Hacker
-date: 2020-08-17 16:54:00 +/-TTTT
-categories: [CTF Walkthrough, Pen Test]
-tags: [ctf, thm]     # TAG names should always be lowercase
----
-
 # Information Gathering
 ### Nmap
 ```
