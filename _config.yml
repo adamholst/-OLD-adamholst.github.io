@@ -30,8 +30,8 @@ github:
 #twitter:
   #username: twitter_username            # change to your twitter username
 
-linkedin:
-  username: adam-holst
+#linkedin:
+  #username: adam-holst
 
 social:
   name: Harambe                 # it will shows as the copyright owner in Footer
