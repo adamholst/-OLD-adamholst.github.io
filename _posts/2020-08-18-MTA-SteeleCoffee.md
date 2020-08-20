@@ -23,9 +23,9 @@ The following post is a walk through of the [2020-04-24 malware traffic analysis
 -   LAN segment broadcast address: 10.0.0.255
 
 # Questions
-1)   Which two clients are Windows hosts, and what are the associated user account names?
-2)   Which one of these two Windows clients was infected?
-3)   What type of malware was that Windows client infected with?
+1.   Which two clients are Windows hosts, and what are the associated user account names?
+2.   Which one of these two Windows clients was infected?
+3.   What type of malware was that Windows client infected with?
 
 # Question 1
 There are many ways to get this information. For me, I filtered for **nbns** packets on wireshark and quickly noticed two IP addresses on the LAN segment communicating with the DC.
