@@ -30,8 +30,8 @@ github:
 #twitter:
   #username: twitter_username            # change to your twitter username
 
-#linkedin:
-  #username: adam-holst
+linkedin:
+  username: adam-holst
 
 social:
   name: Harambe                 # it will shows as the copyright owner in Footer
@@ -42,7 +42,7 @@ social:
     - https://github.com/adamholst       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/adam-holst
+    - https://linkedin.com/in/adam-holst
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
