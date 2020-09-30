@@ -108,7 +108,7 @@ Simple enough, just go to james' home directory and cat the user.txt file.
 ![](/images/op2-user.png)
 
 ## `3.4` What's the root flag?
-If you did a `ls -la` in james' home directory then you would of seen a hidden binary named `.suid_bash` with the SUID bit set. Seems like a quick way for the attacker to escalate to root, so let's try it out ourselves. 
+If you did a `ls -la` in james' home directory then you would of seen a hidden binary named `.suid_bash` with the SUID bit set. This means anyone can execute the binary with the permissions of the file's owner, in this case `root`. Seems like a quick way for the attacker to escalate to root, so let's try it out ourselves. Just use the `-p` argument for privileged mode.
 ![](/images/op2-root.png)
 
 Boom, just like that we got root and we can get the last flag.
