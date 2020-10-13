@@ -2,7 +2,7 @@
 title: THM | Git Happens
 image: /images/gh-title.png
 date: 2020-08-27 18:00:00 -4:00
-categories: [CTF, THM]
+categories: [CTFs & Walkthroughs, TryHackMe]
 tags: [git, gittools, command line fu, github] 
 ---
 

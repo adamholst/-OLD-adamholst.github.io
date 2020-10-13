@@ -2,8 +2,8 @@
 
 title: Malware Analysis | Qbot
 date: 2020-08-18 11:00:00 +0:00
-categories: [Analysis, PCAP]
-tags: [wireshark, qbot, qakbot, virustotal] # add tag
+categories: [CTFs & Walkthroughs, Malware Traffic Analysis]
+tags: [wireshark, qbot, qakbot, virustotal, pcap] # add tag
 
 ---
 

@@ -3,7 +3,7 @@
 title: THM | Bounty Hacker
 date: 2020-08-17 16:00:00 +5:30
 description: The Following Post is writeup of bountyhacker room of tryhackme # Add post description (optional)
-categories: [CTF, THM]
+categories: [CTFs & Walkthroughs, TryHackMe]
 tags: [hydra, gtfobins, ftp] # add tag
 
 ---

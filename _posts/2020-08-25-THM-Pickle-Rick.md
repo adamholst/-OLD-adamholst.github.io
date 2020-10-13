@@ -2,7 +2,7 @@
 title: THM | Pickle Rick
 image: /images/pickle-rick.jpeg
 date: 2020-08-25 09:00:00 -4:00
-categories: [CTF, THM]
+categories: [CTFs & Walkthroughs, TryHackMe]
 tags: [nmap, dirb, gobuster, nikto, webapp] # add tag
 ---
 

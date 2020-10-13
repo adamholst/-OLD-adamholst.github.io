@@ -2,7 +2,7 @@
 title: HTB | Remote
 image: /images/rm-title.webp
 date: 2020-09-05 17:00:00 -4:00
-categories: [CTF, HTB]
+categories: [CTFs & Walkthroughs, Hack The Box]
 tags: [nfs, 'network file system', umbraco, nishang, powershell, msfvenom, winpeas, teamviewer, evil-winrm, windows] 
 
 ---

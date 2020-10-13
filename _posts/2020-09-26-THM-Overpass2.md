@@ -2,7 +2,7 @@
 title: THM | Overpass 2
 image: /images/op2-home.png
 date: 2020-09-26 17:00:00 -4:00
-categories: [CTF, THM]
+categories: [CTFs & Walkthroughs, TryHackMe]
 tags: [wireshark, pcap, hashcat, backdoor, go, salt, hash] 
 
 ---
@@ -108,7 +108,7 @@ Simple enough, just go to james' home directory and cat the user.txt file.
 ![](/images/op2-user.png)
 
 ## `3.4` What's the root flag?
-If you did a `ls -la` in james' home directory then you would of seen a hidden binary named `.suid_bash` with the SUID bit set. This means anyone can execute the binary with the permissions of the file's owner, in this case `root`. Seems like a quick way for the attacker to escalate to root, so let's try it out ourselves. Just use the `-p` argument for privileged mode.
+If you did a `ls -la` in james' home directory then you would of seen a hidden binary named `.suid_bash` with the sticky bit set. Seems like a quick way for the attacker to escalate to root, so let's try it out ourselves. 
 ![](/images/op2-root.png)
 
 Boom, just like that we got root and we can get the last flag.

@@ -2,7 +2,7 @@
 
 title: THM | Easy Peasy
 date: 2020-08-19 11:00:00 +0:00
-categories: [CTF, THM]
+categories: [CTFs & Walkthroughs, TryHackMe]
 tags: [gobuster, steghide, cyberchef, linpeas, cronjob, gost] # add tag
 
 ---
