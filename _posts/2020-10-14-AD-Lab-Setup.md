@@ -40,7 +40,7 @@ I like Game of Thrones, so I themed my domain as such. Having some sort of theme
 - [Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 	- Same as the Windows 10 image, but the license is good for 180 days. Will work after the expired date just fine too.
 
-When downloading the ISOs you will be required to fill out a form asking for your information, you don't have to put your real information. You will not receive a conformation email or anything like that.
+When downloading the ISOs you will be required to fill out a form asking for your information, you don't have to put your real information. You will not receive a confirmation email or anything like that.
 
 # <ins>Create The Domain Controller</ins>
 
